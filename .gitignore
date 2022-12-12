@@ -29,3 +29,5 @@ out/
 *.lck
 */dependency-reduced-pom.xml
 node_modules
+.idea
+akvelon_homework.iml
